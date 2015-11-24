@@ -1,0 +1,1 @@
+browserify --bare -r react -r react/addons -r react-bootstrap -r react-list > react-bundle.js
